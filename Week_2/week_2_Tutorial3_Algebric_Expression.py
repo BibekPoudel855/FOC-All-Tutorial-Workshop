@@ -13,6 +13,7 @@ y= int(y)
 # calculating the algebric expression and storing to res
 res = x**3 + 3 * x**2 * y + 3 * x * y**2 + y**3
 
-# printing the result
+# printing the result with proper formatting
 print("Your Result of Algebric Expression is ", res)
+print("thank you")
 # thank you

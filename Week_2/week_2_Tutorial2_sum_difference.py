@@ -38,10 +38,4 @@ print("sum of two numbers is ", sum)
 print("difference of two numbers is ", difference)
 
 
-
-
-# wap to input name from user and print it on screen
-# input name from user
-name = input("Enter your name : ")
-# print the name on screen
-print("Hello",name, ", have a nice day!")
+# end of the program

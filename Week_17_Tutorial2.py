@@ -41,5 +41,5 @@ print("difference of two numbers is ", difference)
 
 # wap to input name from user and print it on screen
 name = input("Enter your name : ")
-print("Hello ",name)
+print("Hello Your Name is",name)
 print("Welcome to python programming")

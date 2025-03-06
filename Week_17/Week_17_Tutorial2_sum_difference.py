@@ -39,7 +39,9 @@ print("difference of two numbers is ", difference)
 
 
 
+
 # wap to input name from user and print it on screen
+# input name from user
 name = input("Enter your name : ")
-print("Hello Your Name is",name)
-print("Welcome to python programming")
+# print the name on screen
+print("Hello",name, ", have a nice day!")

@@ -14,7 +14,3 @@ for each in listOfNumbers :
 
 print(f"the largest number is {max}")
 print(f"the smallest number is {min}")
-
-
-
-

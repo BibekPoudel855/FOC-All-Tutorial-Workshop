@@ -1,16 +1,17 @@
-a=2,3
-print(type(a))
+N = int(input("enter number to find fibonachi series : "))
+number1=1
+number2=1
+print("1, 1, ")
+for i in range(N) :
+        temp = number1 + number2
+        number1 = number2
+        number2 = temp
+        print(temp, )
 
-n = int(input("enter number to find fibonachi series : "))
-a=1
 
-b=1
-for i in range(n) :
-        c = a + b
-        a = b
-        b = c
+"""
 
-        print(c)
+"""
 
 
 

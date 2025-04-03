@@ -1,5 +1,5 @@
 # Simple for sorting but not optimized
-List = [1,4,3,2]
+List = [1,2,3,4]
 temp = 0
 for i in range(0, len(List)):
     for j in range(i+1, len(List)):

@@ -14,7 +14,6 @@ for student in studentDetails:
     totalMarks = 0
     for i in range(1, len(student)):
         totalMarks+= student[i]
-
     name = student[0]
     averageMarks = totalMarks / (len(student)-1)
     print(f"average marks of {name} is ",averageMarks)
